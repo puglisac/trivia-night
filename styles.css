@@ -1,0 +1,23 @@
+.navbar{
+    background-color:  rgb(65, 65, 65);
+    margin-bottom: 10px;
+}
+body{
+    color: white;
+    font-family: 'Itim';
+    height: 100vh;
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.jumbotron{
+    max-height: 500px;
+    overflow: auto;
+    border-radius: 5px;
+    background-color: rgb(65, 65, 65);
+}
+ol{
+    max-height: 500px;
+    overflow: auto;
+}
